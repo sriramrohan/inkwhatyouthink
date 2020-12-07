@@ -2,13 +2,11 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+Hi! I am **Rohan**. I love .....
 
-[Link to another page](sriramrohan/blob/webpage/another-file.md).
+[About Me](sriramrohan/blob/webpage/another-file.md).
 
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+You can find my writing below
 
 # Header 1
 
